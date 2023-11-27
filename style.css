@@ -1,0 +1,11 @@
+
+.item {
+    background-color: lightblue ;width: 200px;
+tekst color:  ;
+}  
+
+#balk {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(128, 0, 0);
+}
